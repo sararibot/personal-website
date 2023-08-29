@@ -25,18 +25,18 @@ In executing this project, I adopted the design thinking process, examining the 
 
 The design thinking approach, coupled with a commitment to continuous iteration, played a key role in driving this project forward. This enabled the fast creation of an MVP, which could be refined based on new ideas drawn from research and feedback.
 
-![](/public/assets/nice01.png)
+![](/assets/nice01.png)
 
 ## Reaserch
 How can we design an effective strategy to foster a widespread sense of literary community and encourage active participation in the reading community?
 
 What kind of solution should we devise to inspire and amplify the pleasure of reading, while fostering meaningful peer interactions and recurrence in application?
 
-![](/public/assets/nice02.png)
+![](/assets/nice02.png)
 
 ## Architecture
-![](/public/assets/nice03.png)
+![](/assets/nice03.png)
 
 ## Let's design!!
-![](/public/assets/nice04.png)
-![](/public/assets/nice05.png)
+![](/assets/nice04.png)
+![](/assets/nice05.png)

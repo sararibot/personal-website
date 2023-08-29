@@ -19,7 +19,7 @@ The scenario we were going to explore was Cafés Roure, a charming little coffee
 
 What truly sets Roure apart is their genuine connection with customers and the unique atmosphere they cultivate, making it a truly special place to enjoy a cup of coffee.
 
-![](/public/assets/roure01.png)
+![](/assets/roure01.png)
 
 ## Design approach
 
@@ -27,7 +27,7 @@ Our primary focus was to treat the problem with as much significance as finding 
 
 Throughout the entire project, we adhered to a user-centered design approach. This entailed extensive exploration and attentive listening to the needs of the users during the initial phase. This approach proved to be indispensable as it guided us in determining the precise direction we aimed to pursue.
 
-![](/public/assets/roure02.png)
+![](/assets/roure02.png)
 
 ## Reaserch
 Our research process was exhaustive, as we sought to gain a thorough understanding of the company. We employed a variety of techniques, including:
@@ -41,20 +41,20 @@ Our research process was exhaustive, as we sought to gain a thorough understandi
 
 This comprehensive approach allowed us to fully immerse ourselves in the world of our users, understand their stories, key needs and objectives. On this basis, we were able to identify a compelling value proposition.
 
-![](/public/assets/roure03.png)
+![](/assets/roure03.png)
 
 ## Value Propostion
 Immerse yourself in a lively coffee community, explore transparent and insightful content about coffee, and revel in a place of learning and delight that caters to the needs of all our valued users.
 
 Our website brings the essence of our physical café to life, offering a distinctive and valuable experience to our users. 
 
-![](/public/assets/roure04.png)
+![](/assets/roure04.png)
 
 ## Let's design!!
 
-![](/public/assets/roure05.png)
-![](/public/assets/roure06.png)
-![](/public/assets/roure07.png)
+![](/assets/roure05.png)
+![](/assets/roure06.png)
+![](/assets/roure07.png)
 
 
 This project is the result of dedicated teamwork.

@@ -17,7 +17,7 @@ Photographic documentary that reflects the relationship between humans and natur
 
 The main purpose was to expose the relationship between humans and nature, as well as to capture the energy that the earth transmits to a person who nourishes from it. Showing the meaningful and precious details of their day-to-day life.
 
-![](/public/assets/salguer01.jpeg)
-![](/public/assets/salguer02.jpeg)
-![](/public/assets/salguer03.jpeg)
-![](/public/assets/salguer04.jpeg)
+![](/assets/salguer01.jpeg)
+![](/assets/salguer02.jpeg)
+![](/assets/salguer03.jpeg)
+![](/assets/salguer04.jpeg)
