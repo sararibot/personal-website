@@ -9,6 +9,7 @@ tags:
   - Product Design
   - Reaserch
   - UI
+behance: https://behance.com
 ---
 
 A collaborative app for social impact initiatives that connects them with individuals, helping them find like-minded people and overcome volunteering challenges.
@@ -39,7 +40,7 @@ How con we develop an effective strategy to cultivate a widespread sense of soli
 ![](/public/assets/pling07.png)
 ![](/public/assets/pling08.png)
 
-##Screens
+## Screens
 ![](/public/assets/pling10.png)
 
 
